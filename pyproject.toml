@@ -1,0 +1,5 @@
+[project]
+name = "sivalabs-agent-skills"
+version = "0.1.0"
+description = "Spring Boot skills for AI coding agents"
+requires-python = ">=3.10"
